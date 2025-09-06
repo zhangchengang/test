@@ -1,0 +1,14 @@
+# SeisFlows State File
+# Fri Sep  5 14:31:38 2025
+#'1: complete', '0: pending', '-1: failed'
+# ========================================
+generate_synthetic_data: 1
+evaluate_initial_misfit: 0
+run_adjoint_simulations: 0
+postprocess_event_kernels: 0
+evaluate_gradient_from_kernels: 0
+initialize_line_search: 0
+evaluate_line_search_misfit: 0
+update_line_search: 0
+finalize_iteration: 0
+iteration: 1
