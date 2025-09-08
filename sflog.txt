@@ -1,0 +1,337 @@
+2025-09-07 01:10:06 [DEBU] | solver parameters to be updated are: ['vp']
+2025-09-07 01:10:44 [INFO] | 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                                SEISFLOWS SUBMIT                                
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2025-09-07 01:10:44 [DEBU] | solver parameters to be updated are: ['vp']
+2025-09-07 01:10:44 [INFO] | running setup for all modules
+2025-09-07 01:10:44 [DEBU] | workflow.Inversion
+2025-09-07 01:10:52 [DEBU] | system.Cluster
+2025-09-07 01:10:55 [DEBU] | solver.Specfem2D
+2025-09-07 01:10:55 [INFO] | initializing 100 solver directories
+2025-09-07 01:10:55 [DEBU] | source 1: 002
+2025-09-07 01:10:55 [DEBU] | source 0: 001
+2025-09-07 01:10:55 [DEBU] | source 2: 003
+2025-09-07 01:10:55 [DEBU] | source 3: 004
+2025-09-07 01:10:55 [DEBU] | source 4: 005
+2025-09-07 01:10:55 [DEBU] | source 5: 006
+2025-09-07 01:10:55 [DEBU] | source 6: 007
+2025-09-07 01:10:55 [DEBU] | source 7: 008
+2025-09-07 01:10:55 [DEBU] | source 8: 009
+2025-09-07 01:10:55 [DEBU] | source 9: 010
+2025-09-07 01:10:55 [DEBU] | source 10: 011
+2025-09-07 01:10:55 [DEBU] | source 11: 012
+2025-09-07 01:10:55 [DEBU] | source 12: 013
+2025-09-07 01:10:55 [DEBU] | source 13: 014
+2025-09-07 01:10:55 [DEBU] | source 14: 015
+2025-09-07 01:10:55 [DEBU] | source 15: 016
+2025-09-07 01:10:55 [DEBU] | source 16: 017
+2025-09-07 01:10:55 [DEBU] | source 17: 018
+2025-09-07 01:10:55 [DEBU] | source 18: 019
+2025-09-07 01:10:55 [DEBU] | source 19: 020
+2025-09-07 01:10:55 [DEBU] | source 20: 021
+2025-09-07 01:10:55 [DEBU] | source 21: 022
+2025-09-07 01:10:55 [DEBU] | source 22: 023
+2025-09-07 01:10:55 [DEBU] | source 23: 024
+2025-09-07 01:10:55 [DEBU] | source 24: 025
+2025-09-07 01:10:55 [DEBU] | source 25: 026
+2025-09-07 01:10:55 [DEBU] | source 26: 027
+2025-09-07 01:10:55 [DEBU] | source 27: 028
+2025-09-07 01:10:55 [DEBU] | source 28: 029
+2025-09-07 01:10:55 [DEBU] | source 29: 030
+2025-09-07 01:10:55 [DEBU] | source 30: 031
+2025-09-07 01:10:55 [DEBU] | source 31: 032
+2025-09-07 01:10:55 [DEBU] | source 32: 033
+2025-09-07 01:10:55 [DEBU] | source 33: 034
+2025-09-07 01:10:55 [DEBU] | source 34: 035
+2025-09-07 01:10:55 [DEBU] | source 35: 036
+2025-09-07 01:10:55 [DEBU] | source 36: 037
+2025-09-07 01:10:55 [DEBU] | source 37: 038
+2025-09-07 01:10:55 [DEBU] | source 38: 039
+2025-09-07 01:10:55 [DEBU] | source 39: 040
+2025-09-07 01:10:55 [DEBU] | source 40: 041
+2025-09-07 01:10:55 [DEBU] | source 41: 042
+2025-09-07 01:10:55 [DEBU] | source 42: 043
+2025-09-07 01:10:55 [DEBU] | source 43: 044
+2025-09-07 01:10:55 [DEBU] | source 44: 045
+2025-09-07 01:10:55 [DEBU] | source 45: 046
+2025-09-07 01:10:55 [DEBU] | source 46: 047
+2025-09-07 01:10:55 [DEBU] | source 47: 048
+2025-09-07 01:10:55 [DEBU] | source 48: 049
+2025-09-07 01:10:55 [DEBU] | source 49: 050
+2025-09-07 01:10:55 [DEBU] | source 50: 051
+2025-09-07 01:10:55 [DEBU] | source 51: 052
+2025-09-07 01:10:55 [DEBU] | source 52: 053
+2025-09-07 01:10:55 [DEBU] | source 53: 054
+2025-09-07 01:10:55 [DEBU] | source 54: 055
+2025-09-07 01:10:55 [DEBU] | source 55: 056
+2025-09-07 01:10:55 [DEBU] | source 56: 057
+2025-09-07 01:10:55 [DEBU] | source 57: 058
+2025-09-07 01:10:55 [DEBU] | source 58: 059
+2025-09-07 01:10:55 [DEBU] | source 59: 060
+2025-09-07 01:10:55 [DEBU] | source 60: 061
+2025-09-07 01:10:55 [DEBU] | source 61: 062
+2025-09-07 01:10:55 [DEBU] | source 62: 063
+2025-09-07 01:10:55 [DEBU] | source 63: 064
+2025-09-07 01:10:55 [DEBU] | source 64: 065
+2025-09-07 01:10:55 [DEBU] | source 65: 066
+2025-09-07 01:10:55 [DEBU] | source 66: 067
+2025-09-07 01:10:55 [DEBU] | source 67: 068
+2025-09-07 01:10:55 [DEBU] | source 68: 069
+2025-09-07 01:10:55 [DEBU] | source 69: 070
+2025-09-07 01:10:55 [DEBU] | source 70: 071
+2025-09-07 01:10:55 [DEBU] | source 71: 072
+2025-09-07 01:10:55 [DEBU] | source 72: 073
+2025-09-07 01:10:55 [DEBU] | source 73: 074
+2025-09-07 01:10:55 [DEBU] | source 74: 075
+2025-09-07 01:10:55 [DEBU] | source 75: 076
+2025-09-07 01:10:55 [DEBU] | source 76: 077
+2025-09-07 01:10:55 [DEBU] | source 77: 078
+2025-09-07 01:10:55 [DEBU] | source 78: 079
+2025-09-07 01:10:55 [DEBU] | source 79: 080
+2025-09-07 01:10:55 [DEBU] | source 80: 081
+2025-09-07 01:10:55 [DEBU] | source 81: 082
+2025-09-07 01:10:55 [DEBU] | source 82: 083
+2025-09-07 01:10:55 [DEBU] | source 83: 084
+2025-09-07 01:10:55 [DEBU] | source 84: 085
+2025-09-07 01:10:55 [DEBU] | source 85: 086
+2025-09-07 01:10:55 [DEBU] | source 86: 087
+2025-09-07 01:10:55 [DEBU] | source 87: 088
+2025-09-07 01:10:55 [DEBU] | source 88: 089
+2025-09-07 01:10:55 [DEBU] | source 89: 090
+2025-09-07 01:10:55 [DEBU] | source 90: 091
+2025-09-07 01:10:55 [DEBU] | source 91: 092
+2025-09-07 01:10:55 [DEBU] | source 92: 093
+2025-09-07 01:10:55 [DEBU] | source 93: 094
+2025-09-07 01:10:55 [DEBU] | source 94: 095
+2025-09-07 01:10:55 [DEBU] | source 95: 096
+2025-09-07 01:10:55 [DEBU] | source 96: 097
+2025-09-07 01:10:55 [DEBU] | source 97: 098
+2025-09-07 01:10:55 [DEBU] | source 98: 099
+2025-09-07 01:10:56 [DEBU] | source 99: 100
+2025-09-07 01:11:00 [DEBU] | linking source '001' as 'mainsolver'
+2025-09-07 01:11:07 [DEBU] | preprocess.Default
+2025-09-07 01:11:09 [DEBU] | optimize.LBFGS
+2025-09-07 01:11:09 [INFO] | no optimization checkpoint file, assume 1st iteration
+2025-09-07 01:11:14 [INFO] | 
+================================================================================
+                              RUNNING ITERATION 01                              
+================================================================================
+2025-09-07 01:11:14 [INFO] | 
+////////////////////////////////////////////////////////////////////////////////
+                            GENERATE SYNTHETIC DATA                             
+////////////////////////////////////////////////////////////////////////////////
+2025-09-07 01:11:14 [INFO] | checking true/target model parameters:
+2025-09-07 01:11:14 [INFO] | vp: min=3600.000; mean=3999.825; max=4400.000
+2025-09-07 01:11:14 [INFO] | running functions ['_generate_synthetic_data_single'] on system 100 times
+2025-09-07 01:11:14 [DEBU] |  /csim2/lty_zcg/Program_study/seisflows_study/seisflows/seisflows/system/runscripts/run --funcs /csim2/lty_zcg/Program_study/seisflows_study/09_test_create_model/scratch_acoustic/scratch/system/_generate_synthetic_data_single.p --kwargs /csim2/lty_zcg/Program_study/seisflows_study/09_test_create_model/scratch_acoustic/scratch/system/_generate_synthetic_data_single_kwargs.p --environment SEISFLOWS_TASKID={task_id},
+2025-09-07 01:11:14 [DEBU] | running task id 0
+2025-09-07 01:11:14 [DEBU] | running task id 1
+2025-09-07 01:11:14 [DEBU] | running task id 2
+2025-09-07 01:11:14 [DEBU] | running task id 3
+2025-09-07 01:11:14 [DEBU] | running task id 4
+2025-09-07 01:11:14 [DEBU] | running task id 5
+2025-09-07 01:11:15 [DEBU] | running task id 6
+2025-09-07 01:11:15 [DEBU] | running task id 7
+2025-09-07 01:11:15 [DEBU] | running task id 8
+2025-09-07 01:11:15 [DEBU] | running task id 9
+2025-09-07 01:11:15 [DEBU] | running task id 10
+2025-09-07 01:11:15 [DEBU] | running task id 11
+2025-09-07 01:11:15 [DEBU] | running task id 12
+2025-09-07 01:11:15 [DEBU] | running task id 13
+2025-09-07 01:11:15 [DEBU] | running task id 14
+2025-09-07 01:11:15 [DEBU] | running task id 15
+2025-09-07 01:11:15 [DEBU] | running task id 16
+2025-09-07 01:11:15 [DEBU] | running task id 17
+2025-09-07 01:11:15 [DEBU] | running task id 18
+2025-09-07 01:11:15 [DEBU] | running task id 19
+2025-09-07 01:11:15 [DEBU] | running task id 20
+2025-09-07 01:11:15 [DEBU] | running task id 21
+2025-09-07 01:11:15 [DEBU] | running task id 22
+2025-09-07 01:11:15 [DEBU] | running task id 23
+2025-09-07 01:11:15 [DEBU] | running task id 27
+2025-09-07 01:11:15 [DEBU] | running task id 24
+2025-09-07 01:11:15 [DEBU] | running task id 25
+2025-09-07 01:11:15 [DEBU] | running task id 26
+2025-09-07 01:11:15 [DEBU] | running task id 28
+2025-09-07 01:11:15 [DEBU] | running task id 29
+2025-09-07 01:11:15 [DEBU] | running task id 30
+2025-09-07 01:11:15 [DEBU] | running task id 31
+2025-09-07 01:11:15 [DEBU] | running task id 32
+2025-09-07 01:11:15 [DEBU] | running task id 33
+2025-09-07 01:11:15 [DEBU] | running task id 34
+2025-09-07 01:11:15 [DEBU] | running task id 35
+2025-09-07 01:11:15 [DEBU] | running task id 36
+2025-09-07 01:11:15 [DEBU] | running task id 37
+2025-09-07 01:11:15 [DEBU] | running task id 38
+2025-09-07 01:11:15 [DEBU] | running task id 39
+2025-09-07 01:11:15 [DEBU] | running task id 40
+2025-09-07 01:11:15 [DEBU] | running task id 41
+2025-09-07 01:11:15 [DEBU] | running task id 42
+2025-09-07 01:11:15 [DEBU] | running task id 43
+2025-09-07 01:11:15 [DEBU] | running task id 44
+2025-09-07 01:11:15 [DEBU] | running task id 45
+2025-09-07 01:11:15 [DEBU] | running task id 46
+2025-09-07 01:11:15 [DEBU] | running task id 47
+2025-09-07 01:11:15 [DEBU] | running task id 48
+2025-09-07 01:11:15 [DEBU] | running task id 49
+2025-09-07 01:11:15 [DEBU] | running task id 51
+2025-09-07 01:11:15 [DEBU] | running task id 50
+2025-09-07 01:11:15 [DEBU] | running task id 52
+2025-09-07 01:11:15 [DEBU] | running task id 53
+2025-09-07 01:11:15 [DEBU] | running task id 54
+2025-09-07 01:11:15 [DEBU] | running task id 55
+2025-09-07 01:11:15 [DEBU] | running task id 56
+2025-09-07 01:11:15 [DEBU] | running task id 57
+2025-09-07 01:11:15 [DEBU] | running task id 58
+2025-09-07 01:11:15 [DEBU] | running task id 59
+2025-09-07 01:11:15 [DEBU] | running task id 60
+2025-09-07 01:11:15 [DEBU] | running task id 61
+2025-09-07 01:11:15 [DEBU] | running task id 62
+2025-09-07 01:11:15 [DEBU] | running task id 63
+2025-09-07 01:11:15 [DEBU] | running task id 64
+2025-09-07 01:11:15 [DEBU] | running task id 65
+2025-09-07 01:11:15 [DEBU] | running task id 66
+2025-09-07 01:11:15 [DEBU] | running task id 67
+2025-09-07 01:11:15 [DEBU] | running task id 68
+2025-09-07 01:11:15 [DEBU] | running task id 69
+2025-09-07 01:11:15 [DEBU] | running task id 70
+2025-09-07 01:11:15 [DEBU] | running task id 71
+2025-09-07 01:11:15 [DEBU] | running task id 72
+2025-09-07 01:11:15 [DEBU] | running task id 73
+2025-09-07 01:11:15 [DEBU] | running task id 74
+2025-09-07 01:11:15 [DEBU] | running task id 75
+2025-09-07 01:11:15 [DEBU] | running task id 76
+2025-09-07 01:11:15 [DEBU] | running task id 77
+2025-09-07 01:11:15 [DEBU] | running task id 78
+2025-09-07 01:11:15 [DEBU] | running task id 79
+2025-09-07 01:11:15 [DEBU] | running task id 80
+2025-09-07 01:11:15 [DEBU] | running task id 81
+2025-09-07 01:11:15 [DEBU] | running task id 82
+2025-09-07 01:11:15 [DEBU] | running task id 83
+2025-09-07 01:11:15 [DEBU] | running task id 84
+2025-09-07 01:11:16 [DEBU] | running task id 85
+2025-09-07 01:11:16 [DEBU] | running task id 86
+2025-09-07 01:11:16 [DEBU] | running task id 87
+2025-09-07 01:11:16 [DEBU] | running task id 88
+2025-09-07 01:11:16 [DEBU] | running task id 89
+2025-09-07 01:11:16 [DEBU] | running task id 90
+2025-09-07 01:11:16 [DEBU] | running task id 92
+2025-09-07 01:11:16 [DEBU] | running task id 91
+2025-09-07 01:11:16 [DEBU] | running task id 93
+2025-09-07 01:11:16 [DEBU] | running task id 94
+2025-09-07 01:11:16 [DEBU] | running task id 95
+2025-09-07 01:11:16 [DEBU] | running task id 96
+2025-09-07 01:11:16 [DEBU] | running task id 97
+2025-09-07 01:11:16 [DEBU] | running task id 98
+2025-09-07 01:11:16 [DEBU] | running task id 99
+2025-09-07 01:40:33 [DEBU] | checkpointing workflow to seisflows state file
+2025-09-07 01:40:33 [INFO] | 
+////////////////////////////////////////////////////////////////////////////////
+                            EVALUATE INITIAL MISFIT                             
+////////////////////////////////////////////////////////////////////////////////
+2025-09-07 01:40:33 [INFO] | evaluating misfit for model in `path_model_init`
+2025-09-07 01:40:33 [INFO] | checking model parameters:
+2025-09-07 01:40:33 [INFO] | vp: min=4000.000; mean=4000.000; max=4000.000
+2025-09-07 01:40:33 [INFO] | running functions ['prepare_data_for_solver', 'run_forward_simulations', 'evaluate_objective_function'] on system 100 times
+2025-09-07 01:40:33 [DEBU] |  /csim2/lty_zcg/Program_study/seisflows_study/seisflows/seisflows/system/runscripts/run --funcs /csim2/lty_zcg/Program_study/seisflows_study/09_test_create_model/scratch_acoustic/scratch/system/prepare_data_for_solver_run_forward_simulations_evaluate_objective_function.p --kwargs /csim2/lty_zcg/Program_study/seisflows_study/09_test_create_model/scratch_acoustic/scratch/system/prepare_data_for_solver_run_forward_simulations_evaluate_objective_function_kwargs.p --environment SEISFLOWS_TASKID={task_id},
+2025-09-07 01:40:33 [DEBU] | running task id 0
+2025-09-07 01:40:33 [DEBU] | running task id 1
+2025-09-07 01:40:33 [DEBU] | running task id 2
+2025-09-07 01:40:33 [DEBU] | running task id 3
+2025-09-07 01:40:33 [DEBU] | running task id 4
+2025-09-07 01:40:33 [DEBU] | running task id 5
+2025-09-07 01:40:33 [DEBU] | running task id 6
+2025-09-07 01:40:33 [DEBU] | running task id 7
+2025-09-07 01:40:33 [DEBU] | running task id 8
+2025-09-07 01:40:33 [DEBU] | running task id 9
+2025-09-07 01:40:33 [DEBU] | running task id 10
+2025-09-07 01:40:33 [DEBU] | running task id 11
+2025-09-07 01:40:33 [DEBU] | running task id 12
+2025-09-07 01:40:33 [DEBU] | running task id 13
+2025-09-07 01:40:33 [DEBU] | running task id 14
+2025-09-07 01:40:33 [DEBU] | running task id 15
+2025-09-07 01:40:33 [DEBU] | running task id 16
+2025-09-07 01:40:33 [DEBU] | running task id 17
+2025-09-07 01:40:33 [DEBU] | running task id 18
+2025-09-07 01:40:33 [DEBU] | running task id 19
+2025-09-07 01:40:33 [DEBU] | running task id 20
+2025-09-07 01:40:33 [DEBU] | running task id 21
+2025-09-07 01:40:33 [DEBU] | running task id 24
+2025-09-07 01:40:33 [DEBU] | running task id 22
+2025-09-07 01:40:33 [DEBU] | running task id 25
+2025-09-07 01:40:33 [DEBU] | running task id 23
+2025-09-07 01:40:33 [DEBU] | running task id 26
+2025-09-07 01:40:33 [DEBU] | running task id 27
+2025-09-07 01:40:33 [DEBU] | running task id 28
+2025-09-07 01:40:33 [DEBU] | running task id 29
+2025-09-07 01:40:33 [DEBU] | running task id 30
+2025-09-07 01:40:33 [DEBU] | running task id 31
+2025-09-07 01:40:33 [DEBU] | running task id 32
+2025-09-07 01:40:33 [DEBU] | running task id 33
+2025-09-07 01:40:33 [DEBU] | running task id 34
+2025-09-07 01:40:33 [DEBU] | running task id 35
+2025-09-07 01:40:33 [DEBU] | running task id 36
+2025-09-07 01:40:33 [DEBU] | running task id 37
+2025-09-07 01:40:33 [DEBU] | running task id 38
+2025-09-07 01:40:33 [DEBU] | running task id 39
+2025-09-07 01:40:33 [DEBU] | running task id 40
+2025-09-07 01:40:34 [DEBU] | running task id 42
+2025-09-07 01:40:34 [DEBU] | running task id 41
+2025-09-07 01:40:34 [DEBU] | running task id 43
+2025-09-07 01:40:34 [DEBU] | running task id 44
+2025-09-07 01:40:34 [DEBU] | running task id 45
+2025-09-07 01:40:34 [DEBU] | running task id 46
+2025-09-07 01:40:34 [DEBU] | running task id 47
+2025-09-07 01:40:34 [DEBU] | running task id 48
+2025-09-07 01:40:34 [DEBU] | running task id 49
+2025-09-07 01:40:34 [DEBU] | running task id 50
+2025-09-07 01:40:34 [DEBU] | running task id 51
+2025-09-07 01:40:34 [DEBU] | running task id 52
+2025-09-07 01:40:34 [DEBU] | running task id 53
+2025-09-07 01:40:34 [DEBU] | running task id 54
+2025-09-07 01:40:34 [DEBU] | running task id 55
+2025-09-07 01:40:34 [DEBU] | running task id 56
+2025-09-07 01:40:34 [DEBU] | running task id 57
+2025-09-07 01:40:34 [DEBU] | running task id 58
+2025-09-07 01:40:34 [DEBU] | running task id 59
+2025-09-07 01:40:34 [DEBU] | running task id 60
+2025-09-07 01:40:34 [DEBU] | running task id 61
+2025-09-07 01:40:34 [DEBU] | running task id 62
+2025-09-07 01:40:34 [DEBU] | running task id 63
+2025-09-07 01:40:34 [DEBU] | running task id 64
+2025-09-07 01:40:34 [DEBU] | running task id 65
+2025-09-07 01:40:34 [DEBU] | running task id 66
+2025-09-07 01:40:34 [DEBU] | running task id 67
+2025-09-07 01:40:34 [DEBU] | running task id 68
+2025-09-07 01:40:34 [DEBU] | running task id 69
+2025-09-07 01:40:34 [DEBU] | running task id 70
+2025-09-07 01:40:34 [DEBU] | running task id 71
+2025-09-07 01:40:34 [DEBU] | running task id 72
+2025-09-07 01:40:34 [DEBU] | running task id 73
+2025-09-07 01:40:34 [DEBU] | running task id 74
+2025-09-07 01:40:34 [DEBU] | running task id 75
+2025-09-07 01:40:34 [DEBU] | running task id 76
+2025-09-07 01:40:34 [DEBU] | running task id 77
+2025-09-07 01:40:34 [DEBU] | running task id 78
+2025-09-07 01:40:34 [DEBU] | running task id 79
+2025-09-07 01:40:34 [DEBU] | running task id 80
+2025-09-07 01:40:34 [DEBU] | running task id 81
+2025-09-07 01:40:34 [DEBU] | running task id 82
+2025-09-07 01:40:34 [DEBU] | running task id 83
+2025-09-07 01:40:34 [DEBU] | running task id 84
+2025-09-07 01:40:34 [DEBU] | running task id 85
+2025-09-07 01:40:34 [DEBU] | running task id 86
+2025-09-07 01:40:34 [DEBU] | running task id 87
+2025-09-07 01:40:34 [DEBU] | running task id 88
+2025-09-07 01:40:34 [DEBU] | running task id 89
+2025-09-07 01:40:34 [DEBU] | running task id 90
+2025-09-07 01:40:34 [DEBU] | running task id 91
+2025-09-07 01:40:34 [DEBU] | running task id 92
+2025-09-07 01:40:34 [DEBU] | running task id 95
+2025-09-07 01:40:34 [DEBU] | running task id 93
+2025-09-07 01:40:34 [DEBU] | running task id 94
+2025-09-07 01:40:34 [DEBU] | running task id 96
+2025-09-07 01:40:34 [DEBU] | running task id 98
+2025-09-07 01:40:34 [DEBU] | running task id 97
+2025-09-07 01:40:34 [DEBU] | running task id 99

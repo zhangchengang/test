@@ -1,0 +1,7 @@
+2025-09-07 01:40:36 [WARN] | data already found in 067/traces/obs/*, skipping data preparation
+2025-09-07 01:40:36 [INFO] | evaluating objective function for source 067
+2025-09-07 01:40:36 [DEBU] | running forward simulation with 'Specfem2D'
+2025-09-07 01:40:50 [DEBU] | running executable with cmd: 'mpirun -n 7 bin/xmeshfem2D'
+2025-09-07 01:41:03 [DEBU] | running executable with cmd: 'mpirun -n 7 bin/xspecfem2D'
+2025-09-07 01:46:56 [INFO] | FINISH FORWARD SIMULATION: 067
+2025-09-07 01:46:57 [DEBU] | quantifying misfit with 'Default'

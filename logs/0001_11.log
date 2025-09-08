@@ -1,0 +1,5 @@
+2025-09-07 01:11:17 [INFO] | evaluating objective function for source 012
+2025-09-07 01:11:17 [DEBU] | running forward simulation with 'Specfem2D'
+2025-09-07 01:11:17 [DEBU] | running executable with cmd: 'mpirun -n 7 bin/xmeshfem2D'
+2025-09-07 01:11:22 [DEBU] | running executable with cmd: 'mpirun -n 7 bin/xspecfem2D'
+2025-09-07 01:39:19 [INFO] | FINISH FORWARD SIMULATION: 012
